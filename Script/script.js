@@ -1,0 +1,1 @@
+let com = document.write('hello');
